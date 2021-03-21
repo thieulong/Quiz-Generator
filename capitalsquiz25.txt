@@ -1,0 +1,332 @@
+Name:
+
+Class:
+
+Date:
+
+                    State Captitals Quiz (Form 25)
+
+1. What is the capital of Turkey?
+    A. Dublin
+    B. Ankara
+    C. Tokyo
+    D. Madrid
+
+2. What is the capital of China?
+    A. Dili
+    B. Beijing
+    C. Cairo
+    D. Moscow
+
+3. What is the capital of Belgium?
+    A. Athens
+    B. Zagreb
+    C. Brussels
+    D. Brasilia
+
+4. What is the capital of Colombia?
+    A. Bogota
+    B. Budapest
+    C. Amsterdam
+    D. Zagreb
+
+5. What is the capital of Iraq?
+    A. Ankara
+    B. Baghdad
+    C. Buenos Aires
+    D. Berlin
+
+6. What is the capital of Ukraine?
+    A. Santiago
+    B. Kiev
+    C. Moscow
+    D. Canberra
+
+7. What is the capital of Czech Republic?
+    A. Prague
+    B. Lisbon
+    C. Pyongyang
+    D. Santiago
+
+8. What is the capital of Costa Rica?
+    A. Amsterdam
+    B. San Jose
+    C. Brasilia
+    D. Moscow
+
+9. What is the capital of Bangladesh?
+    A. Mexico City
+    B. Jakarta
+    C. Dhaka
+    D. Madrid
+
+10. What is the capital of North Korea?
+    A. San Jose
+    B. Berlin
+    C. Pyongyang
+    D. Tokyo
+
+11. What is the capital of United Kingdom?
+    A. Amsterdam
+    B. Adu Dhabi
+    C. London
+    D. Phnom Penh
+
+12. What is the capital of India?
+    A. Dili
+    B. Tokyo
+    C. Brussels
+    D. New Delhi
+
+13. What is the capital of Thailand?
+    A. Bangkok
+    B. Mexico City
+    C. Amsterdam
+    D. Moscow
+
+14. What is the capital of Australia?
+    A. Canberra
+    B. London
+    C. Warsaw
+    D. Quito
+
+15. What is the capital of Central African Republic?
+    A. Athens
+    B. Bangui
+    C. Moscow
+    D. Rome
+
+16. What is the capital of Italy?
+    A. Wellington
+    B. Vientiane
+    C. London
+    D. Rome
+
+17. What is the capital of Russia?
+    A. Baghdad
+    B. Seoul
+    C. Moscow
+    D. Copenhagen
+
+18. What is the capital of South Korea?
+    A. Tehran
+    B. Seoul
+    C. Minsk
+    D. Pyongyang
+
+19. What is the capital of Belarus?
+    A. Minsk
+    B. Cairo
+    C. Adu Dhabi
+    D. Rome
+
+20. What is the capital of Germany?
+    A. Berlin
+    B. Pyongyang
+    C. Bangkok
+    D. Ottawa
+
+21. What is the capital of Chile?
+    A. Bangui
+    B. Amsterdam
+    C. Prague
+    D. Santiago
+
+22. What is the capital of Greece?
+    A. Athens
+    B. Beijing
+    C. Vienna
+    D. Prague
+
+23. What is the capital of Iceland?
+    A. Buenos Aires
+    B. Reykjavik
+    C. New Delhi
+    D. Madrid
+
+24. What is the capital of Vietnam?
+    A. Hanoi
+    B. Berlin
+    C. Bogota
+    D. Madrid
+
+25. What is the capital of Mexico?
+    A. Havana
+    B. Reykjavik
+    C. Bandar Seri Begawan
+    D. Mexico City
+
+26. What is the capital of Cambodia?
+    A. San Jose
+    B. Phnom Penh
+    C. Nay Pi Taw
+    D. Athens
+
+27. What is the capital of Poland?
+    A. Brasilia
+    B. Warsaw
+    C. New Delhi
+    D. Amsterdam
+
+28. What is the capital of Japan?
+    A. Wellington
+    B. Hanoi
+    C. London
+    D. Tokyo
+
+29. What is the capital of Ecuador?
+    A. Lisbon
+    B. Beijing
+    C. Zagreb
+    D. Quito
+
+30. What is the capital of Spain?
+    A. Moscow
+    B. Paris
+    C. Madrid
+    D. Baghdad
+
+31. What is the capital of Canada?
+    A. Nay Pi Taw
+    B. Minsk
+    C. Ottawa
+    D. Bangkok
+
+32. What is the capital of Ireland?
+    A. Rome
+    B. Berlin
+    C. Prague
+    D. Dublin
+
+33. What is the capital of Denmark?
+    A. Copenhagen
+    B. Quito
+    C. Pyongyang
+    D. Havana
+
+34. What is the capital of Cuba?
+    A. Zagreb
+    B. Jakarta
+    C. Havana
+    D. Rome
+
+35. What is the capital of Singapore?
+    A. Singapore
+    B. Zagreb
+    C. Athens
+    D. Brussels
+
+36. What is the capital of Philippines?
+    A. Canberra
+    B. Athens
+    C. Pyongyang
+    D. Manila
+
+37. What is the capital of Iran?
+    A. Dublin
+    B. Minsk
+    C. Phnom Penh
+    D. Tehran
+
+38. What is the capital of Austria?
+    A. Manila
+    B. Vienna
+    C. Amsterdam
+    D. Kuala Lumpur
+
+39. What is the capital of Netherlands?
+    A. Kuala Lumpur
+    B. Moscow
+    C. Brussels
+    D. Amsterdam
+
+40. What is the capital of Hungary?
+    A. Budapest
+    B. Manila
+    C. Baghdad
+    D. Dublin
+
+41. What is the capital of Indonesia?
+    A. Kiev
+    B. Baghdad
+    C. Jakarta
+    D. Tehran
+
+42. What is the capital of Laos?
+    A. Brasilia
+    B. Dhaka
+    C. Vientiane
+    D. Dili
+
+43. What is the capital of Argentina?
+    A. Amsterdam
+    B. Brasilia
+    C. Havana
+    D. Buenos Aires
+
+44. What is the capital of France?
+    A. Jakarta
+    B. Zagreb
+    C. Wellington
+    D. Paris
+
+45. What is the capital of Croatia?
+    A. Vientiane
+    B. Zagreb
+    C. Buenos Aires
+    D. Prague
+
+46. What is the capital of United Arab Emirates (UAE)?
+    A. Wellington
+    B. Adu Dhabi
+    C. Singapore
+    D. Prague
+
+47. What is the capital of Portugal?
+    A. Brussels
+    B. Santiago
+    C. Lisbon
+    D. Jakarta
+
+48. What is the capital of Brazil?
+    A. Brasilia
+    B. Nay Pi Taw
+    C. Canberra
+    D. Seoul
+
+49. What is the capital of New Zealand?
+    A. Wellington
+    B. Kiev
+    C. Hanoi
+    D. Kuala Lumpur
+
+50. What is the capital of Brunei?
+    A. Dublin
+    B. Bandar Seri Begawan
+    C. Minsk
+    D. Manila
+
+51. What is the capital of East Timor?
+    A. Moscow
+    B. Dili
+    C. Athens
+    D. Rome
+
+52. What is the capital of Malaysia?
+    A. Dublin
+    B. Wellington
+    C. Kuala Lumpur
+    D. Manila
+
+53. What is the capital of Myanmar?
+    A. Tehran
+    B. Santiago
+    C. Nay Pi Taw
+    D. Warsaw
+
+54. What is the capital of Egypt?
+    A. Lisbon
+    B. Cairo
+    C. Santiago
+    D. Dublin
+
